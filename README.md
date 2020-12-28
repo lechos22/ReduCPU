@@ -1,7 +1,7 @@
-## ReduCPU
+# ReduCPU
 This proccessor has super llama powers
 
-# ---16 BITS---
+## ---16 BITS---
 
 0x0-0xF: All
 
@@ -9,7 +9,7 @@ This proccessor has super llama powers
 
 0x8-0xF: Parameter
 
-# ---Sub-Instructions---
+## ---Sub-Instructions---
 
 0x00: ZER, Empty CPU Clock cycle
 
@@ -30,7 +30,7 @@ This proccessor has super llama powers
 0x08: RST, Reset CC
 
 
-# ---Registers---
+## ---Registers---
 
 0x00: RA, Accumulator
 
