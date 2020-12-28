@@ -1,4 +1,4 @@
-# ReduCPU
+## ReduCPU
 This proccessor has super llama powers
 
 # ---16 BITS---
